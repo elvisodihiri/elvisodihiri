@@ -90,8 +90,7 @@
 
 ### 🔐 Entra ID Enterprise Project
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
-
+[![Enterprise Identity Lab](YOUR_IMAGE_URL)](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
 #### Features
 
 ✅ MFA
