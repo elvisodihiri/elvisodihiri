@@ -1,3 +1,11 @@
+Markdown
+# Hi there, I'm a Cloud & Systems Administration Specialist 👋 🇬🇧
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Cloud%20Engineering-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20365%20%26%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hypervisor-VMware%20vSphere-60A10B?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
 # Hi there, I'm Elvis Odihiri 👋 🇬🇧
 
 <p align="left">
