@@ -1,3 +1,10 @@
+# Hi there, I'm Elvis Odihiri 👋 🇬🇧
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Systems%20Administration-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20365%20%26%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hypervisor-VMware%20vSphere-60A10B?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ELVIS%20ODIHIRI&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
