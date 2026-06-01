@@ -115,7 +115,9 @@
 
 ### ☁️ Microsoft 365 Administration
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft/microsoft.png" width="300">
+<a href="https://github.com/elvisodihiri/Active-directory-Hybrid-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft/microsoft.png" width="300">
+</a>
 
 #### Features
 
