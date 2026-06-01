@@ -90,7 +90,7 @@
 
 ### 🔐 Entra ID Enterprise Project
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="300">
+[Repository Link](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
 
 #### Features
 
