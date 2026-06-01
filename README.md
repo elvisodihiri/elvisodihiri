@@ -1,14 +1,5 @@
 # Hi 👋, I'm Elvis Odihiri
 
-<h3 align="center">Cloud | Microsoft 365 | Entra ID | Azure Administrator | IT Operations Engineer</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Microsoft+365+Administrator;Azure+Administrator;Entra+ID+Specialist;IT+Operations+Engineer;Cloud+and+Identity+Management" />
-
----
-
-## 🚀 About Me
-# Hi 👋, I'm Elvis Odihiri
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
@@ -179,6 +170,3 @@ Enterprise identity deployment featuring:
 ### ⭐ Building Secure Cloud & Identity Solutions
 
 </div>
-
-
-⭐ Building Cloud, Identity and Microsoft 365 Solutions Every Day
