@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Elvis%20Odihiri&fontSize=50&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Elvis%20Odihiri&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,116 +7,222 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Systems%20Administration-blue?style=for-the-badge&logo=microsoft" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Platform-Microsoft%20365%20%26%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Platform Badge" />
-  <img src="https://img.shields.io/badge/Hypervisor-VMware%20vSphere-60A10B?style=for-the-badge&logo=vmware&logoColor=white" alt="Hypervisor Badge" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Systems%20Administration-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20365%20%26%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hypervisor-VMware%20vSphere-60A10B?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
 ---
 
-## 👤 Professional Summary
-Certified IT Support Professional (**MS-900**, **Google IT Support**) with comprehensive hands-on experience administering Windows Server environments, Active Directory infrastructure, and Microsoft 365 cloud ecosystems. I specialize in building, securing, and maintaining production-style enterprise lab environments focusing on hybrid identity, system redundancy, and access governance. 
+---
 
-I combine strong technical capability with extensive experience navigating fast-paced operational workflows and strict information governance standards. 
+# 🌈 About Me
 
-* 📍 **Location:** Ormskirk, UK
-* 🎯 **Current Focus:** Advancing in Microsoft Identity and Access Administration (SC-300) and Privileged Identity Management (PIM).
-* ⚙️ **Core Philosophy:** Designing secure, reliable, and meticulously documented infrastructure layouts to empower modern digital workspaces.
+
+<img align="right" width="400" alt="ChatGPT Image Jun 1, 2026, 11_19_20 PM" src="https://github.com/user-attachments/assets/c2c7109c-4b0f-438d-8b63-9c10a61d2370" />
+
+✨ IT Operations Engineer
+
+☁️ Microsoft Azure Administrator
+
+🔐 Microsoft Entra ID Specialist
+
+🏢 Active Directory & Windows Server Administrator
+
+⚡ PowerShell Automation Enthusiast
+
+🚀 Microsoft 365 Administration
+
+📚 SC-300 & AZ-104 Learner
+
+🎯 Passionate About Cloud Security & Infrastructure
+
+<br clear="right"/>
 
 ---
 
-## 🖥️ Production-Style Home Lab Blueprint
-I maintain a dedicated, physical engineering lab environment to simulate, test, and troubleshoot enterprise-level business scenarios:
+# 🚀 Current Learning Journey
+
+```diff
++ Microsoft Entra ID
++ Conditional Access
++ Privileged Identity Management
++ Azure Administration
++ Windows Server 2022
++ Active Directory
++ Group Policy Management
++ PowerShell Automation
++ Microsoft 365 Security
++ Hybrid Identity
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,powershell,windows,linux,bash,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🔥 Featured Projects
 
 <table>
-  <tr>
-    <td><strong>Hypervisor Layer</strong></td>
-    <td>VMware & Hyper-V Virtualization Platforms</td>
-  </tr>
-  <tr>
-    <td><strong>Compute Environments</strong></td>
-    <td>Windows Server 2022, Windows 10, Windows 11</td>
-  </tr>
-  <tr>
-    <td><strong>Directory Ecosystem</strong></td>
-    <td>Multi-Server Active Directory Domain Services (AD DS)</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud/Hybrid Core</strong></td>
-    <td>Microsoft Entra ID connected via Azure AD Connect cloud sync</td>
-  </tr>
+<tr>
+
+<td width="50%">
+
+### 🔐 Entra ID Enterprise Project
+
+### 🔐 Enterprise Identity & Access Management Lab
+
+🔗 <a href="https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="300">
+</a>
+#### Features
+
+✅ MFA
+
+✅ Conditional Access
+
+✅ RBAC
+
+✅ PIM
+
+✅ Identity Governance
+
+🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
+
+</td>
+
+<td width="50%">
+
+### ☁️ Microsoft 365 Administration
+
+<a href="https://github.com/elvisodihiri/Active-directory-Hybrid-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft/microsoft.png" width="300">
+</a>
+
+#### Features
+
+✅ User Management
+
+✅ Licensing
+
+✅ Security Groups
+
+✅ Exchange Online
+
+✅ Teams Administration
+
+🔗 [Repository Link](https://github.com/elvisodihiri/Active-directory-Hybrid-Lab)
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 🚀 Core Skills & Technical Badges
+# 📊 GitHub Analytics
 
-### 🔐 Identity & Cloud Architecture
-<img src="https://img.shields.io/badge/Active_Directory-2072B4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" /> 
-<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Entra ID" /> 
-<img src="https://img.shields.io/badge/Azure_AD_Connect-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Azure AD Connect" />
-<img src="https://img.shields.io/badge/Conditional_Access-🔒-blue?style=flat-square" alt="Conditional Access" />
-<img src="https://img.shields.io/badge/Multi_Factor_Authentication_(MFA)-🛡️-green?style=flat-square" alt="MFA" />
-<img src="https://img.shields.io/badge/Privileged_Identity_Management_(PIM)-⚠️-red?style=flat-square" alt="PIM" />
+<div align="center">
 
-### 🎛️ Directory Services & Administration
-<img src="https://img.shields.io/badge/Group_Policy_Objects_(GPO)-⚙️-grey?style=flat-square" alt="GPO" />
-<img src="https://img.shields.io/badge/Organizational_Units_(OUs)-📂-yellow?style=flat-square" alt="OUs" />
-<img src="https://img.shields.io/badge/RBAC_(AGDLP_Model)-👤-orange?style=flat-square" alt="RBAC" />
-<img src="https://img.shields.io/badge/NTFS_&_Share_Permissions-🔓-lightgrey?style=flat-square" alt="NTFS Permissions" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=elvisodihiri&show_icons=true&theme=radical"/>
 
-### 🌐 Networking & Diagnostics
-<img src="https://img.shields.io/badge/DNS_&_DHCP-Architecture-blue?style=flat-square" alt="DNS/DHCP" />
-<img src="https://img.shields.io/badge/TCP/IP_&_IP_Addressing-🌐-violet?style=flat-square" alt="TCP/IP" />
-<img src="https://img.shields.io/badge/Diagnostics-(gpresult_/_RSOP_/_Event_Viewer)-black?style=flat-square" alt="Diagnostics" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisodihiri&layout=compact&theme=radical"/>
 
-### 🎟️ Service Desk & Workspace Governance
-<img src="https://img.shields.io/badge/ServiceNow-🪪-green?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
-<img src="https://img.shields.io/badge/Spiceworks-🎫-orange?style=flat-square&logo=spiceworks&logoColor=white" alt="Spiceworks" />
-<img src="https://img.shields.io/badge/Microsoft_365_Admin-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="M365 Admin" />
-<img src="https://img.shields.io/badge/SharePoint_&_Teams-0078D4?style=flat-square" alt="SharePoint/Teams" />
+</div>
 
 ---
 
-## 🔬 Featured Engineering Projects
+# ⚡ GitHub Streak
 
-### 📡 [1. Enterprise Identity & Access Management Lab](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
-> A comprehensive, self-built production-style corporate network supporting 20+ users across multiple departments with fully redundant services.
+<div align="center">
 
-*   **Infrastructure & Security:** Deployed dual, redundant Domain Controllers (DC1 & DC2) with active replication. Engineered a clean, corporate OU hierarchy and applied granular GPOs enforcing USB hardware restrictions, custom firewall configurations, and full desktop lockouts.
-*   **Access Engineering:** Implemented Role-Based Access Control (RBAC) natively utilising the enterprise **AGDLP model**. Defined explicit NTFS and shared folder permissions via targeted security groups.
-*   **Troubleshooting & DR:** Routinely diagnosed configuration conflicts and replication anomalies using diagnostics like `gpresult`, `RSOP`, and Windows `Event Viewer`. Configured robust system state backups to successfully execute authoritative and non-authoritative Active Directory restores.
-*   🔗 **[Click Here to Explore the Full IAM Lab Documentation 📂](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)**
+<img src="https://streak-stats.demolab.com?user=elvisodihiri&theme=radical"/>
 
-### ☁️ [2. Active Directory Hybrid Cloud Lab](https://github.com/elvisodihiri/Active-directory-Hybrid-Lab)
-> Architecting a fluid bridge between traditional on-premises infrastructure environments and Microsoft 365 cloud-native application suites.
-
-*   **Hybrid Identity Sync:** Successfully integrated local Active Directory instances directly with Microsoft Entra ID leveraging **Azure AD Connect** configuration models.
-*   **Cloud Security Baselines:** Configured explicit Conditional Access rules, multi-factor authentication (MFA) parameters, and fully explored **Privileged Identity Management (PIM)** for just-in-time access control policies.
-*   **SaaS Management & Support:** Handled user provisioning, Exchange Online mailboxes, and corporate group permissions through the Microsoft 365 Admin Centre. Logged and lifecycle-tracked all deployment errors natively within a Spiceworks helpdesk setup.
-*   🔗 **[Click Here to Explore the Active Directory Hybrid Cloud Lab 📂](https://github.com/elvisodihiri/Active-directory-Hybrid-Lab)**
+</div>
 
 ---
 
-## 🎓 Industry Credentials
-*   🏅 **Microsoft 365 Certified:** Fundamentals (MS-900)
-*   🏅 **Google IT Support** Professional Certificate
-*   📖 **Microsoft Identity & Access Administrator** (SC-300) | *In Progress*
-*   🎓 **MSc Explorational Geophysics** | University of Benin
-*   🎓 **BSc Physics** | Ambrose Alli University
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=elvisodihiri&theme=radical&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
-## 📬 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/elvis-odihiri-244a103a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:elvisodihiri@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
-  </a>
-</p>
+# 📈 Contribution Graph
 
-<p align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" alt="Footer Banner" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisodihiri&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🎓 Certifications & Learning
+
+🟣 SC-300 Identity & Access Administrator
+
+🔵 AZ-104 Azure Administrator
+
+🟢 Microsoft 365 Administration
+
+🟠 Windows Server Administration
+
+🔴 PowerShell Scripting
+
+🟡 Cyber Security Fundamentals
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>](https://www.linkedin.com/in/elvis-odihiri-244a103a4/)
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/elvisodihiri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Secure Cloud & Identity Solutions
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
+
+</div>
