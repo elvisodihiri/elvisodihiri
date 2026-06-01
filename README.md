@@ -89,7 +89,6 @@
 
 <td width="50%">
 
-### 🔐 Entra ID Enterprise Project
 
 ### 🔐 Enterprise Identity & Access Management Lab
 
@@ -114,7 +113,7 @@
 
 <td width="50%">
 
-### ☁️ Microsoft 365 Administration
+### ☁️ Active Directory & Microsoft 365 Hybrid Administration Lab
 
 <a href="https://github.com/elvisodihiri/Active-directory-Hybrid-Lab">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft/microsoft.png" width="300">
@@ -141,15 +140,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=elvisodihiri&show_icons=true&theme=radical"/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisodihiri&layout=compact&theme=radical"/>
-
-</div>
 
 ---
 
@@ -163,13 +153,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elvisodihiri&theme=radical&no-frame=true&margin-w=10"/>
-
-</div>
 
 ---
 
@@ -203,12 +186,12 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>](https://www.linkedin.com/in/elvis-odihiri-244a103a4/)
+<a href="https://www.linkedin.com/in/elvis-odihiri-244a103a4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:elvisodihiri@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/elvisodihiri">
