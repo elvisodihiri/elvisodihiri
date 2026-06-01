@@ -90,7 +90,10 @@
 
 ### 🔐 Entra ID Enterprise Project
 
-[![Enterprise Identity Lab](YOUR_IMAGE_URL)](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
+### 🔐 Enterprise Identity & Access Management Lab
+
+🔗 **Repository:**  
+[Enterprise Identity & Access Management Lab](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
 #### Features
 
 ✅ MFA
