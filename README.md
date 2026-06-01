@@ -7,33 +7,133 @@
 ---
 
 ## 🚀 About Me
+# Hi 👋, I'm Elvis Odihiri
 
-🔹 IT Operations Engineer within the NHS
+<div align="center">
 
-🔹 Passionate about Microsoft Cloud Technologies
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
 
-🔹 Working with Microsoft 365, Entra ID, Azure and PowerShell
+<h1>☁️ Microsoft Cloud & Identity Engineer</h1>
 
-🔹 Currently studying SC-300 and AZ-104
+<h3>Microsoft 365 • Entra ID • Azure • PowerShell • Windows Server</h3>
 
-🔹 Building real-world cloud and identity management projects
+<p>
+<img src="https://komarev.com/ghpvc/?username=elvisodihiri&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
+
+💼 IT Operations Engineer
+
+☁️ Microsoft 365 Administration
+
+🔐 Identity & Access Management
+
+🏢 Active Directory & Hybrid Identity
+
+⚡ PowerShell Automation
+
+📚 Currently studying SC-300 & AZ-104
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎯 Current Focus
+
+* Microsoft Entra ID
+* Conditional Access
+* Identity Governance
+* Windows Server 2022
+* Active Directory
+* Azure Administration
+* PowerShell Automation
+* Microsoft 365 Security
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=azure,powershell,windows,github,vscode,git" />
+
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔐 Microsoft Entra ID Enterprise Deployment
+
+<img width="800" src="YOUR-SCREENSHOT-LINK">
+
+Enterprise identity deployment featuring:
+
+* MFA
+* Conditional Access
+* RBAC
+* PIM
+* Administrative Units
+
+🔗 Repository Link
+
+---
+
+### ☁️ Microsoft 365 Administration Lab
+
+<img width="800" src="YOUR-SCREENSHOT-LINK">
+
+* User Lifecycle Management
+* Licensing
+* Groups
+* Security Policies
+* Exchange Online
+
+🔗 Repository Link
+
+---
+
+### 🏢 Hybrid Active Directory Project
+
+<img width="800" src="YOUR-SCREENSHOT-LINK">
+
+* Active Directory
+* Azure AD Connect
+* OU Structure
+* GPO Management
+* Hybrid Identity
+
+🔗 Repository Link
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisodihiri&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisodihiri&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -41,75 +141,44 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=elvisodihiri&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔐 Entra ID Identity Management Lab
-
-<img width="800" src="YOUR_SCREENSHOT_URL">
-
-Enterprise identity management project using Microsoft Entra ID.
-
-🔗 Repository: YOUR_REPO_LINK
-
----
-
-### ☁️ Microsoft 365 Administration Project
-
-<img width="800" src="YOUR_SCREENSHOT_URL">
-
-User lifecycle management, licensing, security groups and conditional access.
-
-🔗 Repository: YOUR_REPO_LINK
-
----
-
-### 🏥 NHS IT Operations Portfolio
-
-<img width="800" src="YOUR_SCREENSHOT_URL">
-
-Real-world operational support, troubleshooting and infrastructure documentation.
-
-🔗 Repository: YOUR_REPO_LINK
-
----
-
-## 📜 Certifications
-
-🏅 SC-300 Identity and Access Administrator (In Progress)
-
-🏅 AZ-104 Azure Administrator (In Progress)
-
-🏅 Microsoft 365 Administration
-
-🏅 Cyber Security Fundamentals
+* SC-300 Identity & Access Administrator
+* AZ-104 Azure Administrator
+* Microsoft 365 Administration
+* Cyber Security Projects
+* NHS IT Operations Engineer
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOURPROFILE">
+
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOURMAIL">
+<a href="mailto:your-email">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
+
+<div align="center">
+
+### ⭐ Building Secure Cloud & Identity Solutions
+
+</div>
+
 
 ⭐ Building Cloud, Identity and Microsoft 365 Solutions Every Day
