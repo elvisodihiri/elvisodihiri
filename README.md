@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Elvis%20Odihiri&fontSize=50&animation=twinkling&fontColor=ffffff" style="pointer-events: none;" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Elvis%20Odihiri&fontSize=50&animation=twinkling&fontColor=ffffff" />
