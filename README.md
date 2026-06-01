@@ -15,7 +15,13 @@
 </div>
 
 ---
+# Hi 👋, I'm Elvis Odihiri
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
+
+<h1>☁️ Microsoft Cloud & Identity Engineer</h1>
 # 🌈 About Me
 
 
