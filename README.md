@@ -191,7 +191,7 @@
 </a>
 
 <a href="mailto:elvisodihiri@hotmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
 </a>
 
 <a href="https://github.com/elvisodihiri">
