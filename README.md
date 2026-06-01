@@ -104,7 +104,7 @@
 
 ✅ Identity Governance
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
 
 </td>
 
@@ -126,7 +126,7 @@
 
 ✅ Teams Administration
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/elvisodihiri/Active-directory-Hybrid-Lab)
 
 </td>
 
@@ -198,8 +198,8 @@
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>](https://www.linkedin.com/in/elvis-odihiri-244a103a4/)
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
