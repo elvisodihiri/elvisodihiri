@@ -19,7 +19,7 @@
 # 🌈 About Me
 
 
-<img src="https://github.com/user-attachments/assets/c2c7109c-4b0f-438d-8b63-9c10a61d2370" align="right" width="400" />
+<img align="right" width="400" alt="ChatGPT Image Jun 1, 2026, 11_19_20 PM" src="https://github.com/user-attachments/assets/c2c7109c-4b0f-438d-8b63-9c10a61d2370" />
 
 ✨ IT Operations Engineer
 
