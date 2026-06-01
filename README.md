@@ -22,6 +22,24 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
 
 <h1>☁️ Microsoft Cloud & Identity Engineer</h1>
+# Hi 👋, I'm Elvis Odihiri
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="900"/>
+
+<h1>☁️ Microsoft Cloud & Identity Engineer</h1>
+
+<h3>Microsoft 365 • Entra ID • Azure • PowerShell • Windows Server</h3>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=elvisodihiri&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+
+
 # 🌈 About Me
 
 
