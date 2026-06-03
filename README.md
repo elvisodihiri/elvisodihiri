@@ -114,7 +114,31 @@
 🔗 [Repository Link](https://github.com/elvisodihiri/Active-directory-Hybrid-Lab)
 
 </td>
+<td width="30%">
 
+
+### 🔐 Enterprise Identity & Access Management Lab
+
+🔗 <a href="https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="300">
+</a>
+#### Features
+
+✅ MFA
+
+✅ Conditional Access
+
+✅ RBAC
+
+✅ PIM
+
+✅ Identity Governance
+
+🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
+
+</td>
+
+<td width="30%">
 </tr>
 </table>
 
