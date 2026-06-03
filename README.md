@@ -115,31 +115,18 @@
 
 </td>
 <td width="30%">
-
-
 ### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
-
-🔗 <a href="https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/activedirectory.png" width="300">
+🔗 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="300">
 </a>
 #### Features
-
 ✅ Backup & Restore  
-
 ✅ Replication
-
-✅  FSMO Roles
-
+✅ FSMO Roles
 ✅ Recycle Bin
-
 ✅ Fine-Grained Password Policies
-
-🔗 [Repository Link]([https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab))
-
+🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab)
 </td>
-
-<td width="30%">
-</tr>
 </table>
 
 ---
