@@ -58,29 +58,7 @@
 + Hybrid Identity
 ```
 
----
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,powershell,windows,linux,bash,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
-
-</div>
 
 ---
 
@@ -89,7 +67,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="30%">
 
 
 ### 🔐 Enterprise Identity & Access Management Lab
@@ -113,7 +91,7 @@
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
 ### ☁️ Active Directory & Microsoft 365 Hybrid Administration Lab
 
@@ -145,14 +123,29 @@
 
 ---
 
-# ⚡ GitHub Streak
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=elvisodihiri&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=azure,powershell,windows,linux,bash,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
 
 </div>
-
 ---
 
 
