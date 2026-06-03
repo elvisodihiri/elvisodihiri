@@ -120,7 +120,7 @@
 ### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
 
 🔗 <a href="https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="300">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/activedirectory.png" width="300">
 </a>
 #### Features
 
