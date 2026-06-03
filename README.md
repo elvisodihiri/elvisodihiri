@@ -115,24 +115,27 @@
 
 </td>
 <td width="30%">
-### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
-  
-🔗 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/300px-Microsoft_Azure_Logo.svg.png" width="300">
+
+### 🏢 Enterprise Active Directory Recovery & Resilience Engineering Lab
+
+<a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="300">
 </a>
+
 #### Features
-✅ Backup & Restore 
-  
-✅ Replication
 
-✅ FSMO Roles
+✅ Backup & Restore
 
-✅ Recycle Bin
+✅ Active Directory Replication
+
+✅ FSMO Role Recovery
+
+✅ Active Directory Recycle Bin
 
 ✅ Fine-Grained Password Policies
 
+🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab)
 
-🔗 [Repository](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab)
 </td>
 </table>
 
