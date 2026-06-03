@@ -119,7 +119,7 @@
 ### 🏢 Enterprise Active Directory Recovery & Resilience Engineering Lab
 
 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="300">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="280">
 </a>
 
 #### Features
