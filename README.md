@@ -117,24 +117,24 @@
 <td width="30%">
 
 
-### 🔐 Enterprise Identity & Access Management Lab
+### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
 
 🔗 <a href="https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="300">
 </a>
 #### Features
 
-✅ MFA
+✅ Backup & Restore  
 
-✅ Conditional Access
+✅ Replication
 
-✅ RBAC
+✅  FSMO Roles
 
-✅ PIM
+✅ Recycle Bin
 
-✅ Identity Governance
+✅ Fine-Grained Password Policies
 
-🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab)
+🔗 [Repository Link]([https://github.com/elvisodihiri/Enterprise-Identity-Access-Management-Lab](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab))
 
 </td>
 
