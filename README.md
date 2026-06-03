@@ -44,7 +44,7 @@
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 <h3>🔐 Enterprise Identity & Access Management Lab</h3>
 
@@ -72,7 +72,7 @@
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 <h3>☁️ Active Directory & Microsoft 365 Hybrid Administration Lab</h3>
 
@@ -100,7 +100,7 @@
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 <h3>🏢 Enterprise Active Directory Recovery & Resilience Engineering Lab</h3>
 
