@@ -118,7 +118,7 @@
 ### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
   
 🔗 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure-active-directory/azure-active-directory.png" width="300">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/300px-Microsoft_Azure_Logo.svg.png" width="300">
 </a>
 #### Features
 ✅ Backup & Restore 
