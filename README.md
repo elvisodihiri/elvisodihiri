@@ -117,7 +117,7 @@
 <td width="30%">
 ### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
 🔗 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/active-directory/active-directory.png" width="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/300px-Database-mysql.svg.png" width="300">
 </a>
 #### Features
 ✅ Backup & Restore 
