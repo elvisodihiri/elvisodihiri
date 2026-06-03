@@ -117,15 +117,21 @@
 <td width="30%">
 ### 🏢 Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab
 🔗 <a href="https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="300">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/active-directory/active-directory.png" width="300">
 </a>
 #### Features
-✅ Backup & Restore  
+✅ Backup & Restore 
+  
 ✅ Replication
+
 ✅ FSMO Roles
+
 ✅ Recycle Bin
+
 ✅ Fine-Grained Password Policies
-🔗 [Repository Link](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab)
+
+
+🔗 [Repository](https://github.com/elvisodihiri/Enterprise-Active-Directory-Recovery-Resilience-Engineering-Lab)
 </td>
 </table>
 
